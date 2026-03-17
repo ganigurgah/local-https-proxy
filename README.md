@@ -4,6 +4,7 @@
 > lokal HTTPS reverse proxy — ngrok gerektirmez, internet bağlantısı gerekmez.
 
 ---
+![alt text](screenshot-1.png)
 
 ## Gereksinimler
 
